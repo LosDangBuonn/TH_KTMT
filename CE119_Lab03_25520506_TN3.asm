@@ -1,5 +1,5 @@
 .data
-n_val:  .word 20
+n_val:  .word 17
 chuoi1: .asciiz "F("
 chuoi2: .asciiz ") = "
 .text
